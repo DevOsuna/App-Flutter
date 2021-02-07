@@ -1,3 +1,3 @@
-# Proyecto de componentes
+# Flutter App
 
-Segundo ejercicio del curso de Flutter
+Proyecto 1.° Corte
